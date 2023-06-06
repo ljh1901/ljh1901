@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <title>Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .resume {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            font-size: 20px;
+            margin-top: -10px;
+            margin-left: 0px;
+            color: rgb(12, 12, 12);
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 10px;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .section-title {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        .section-content {
+            margin-left: 0;
+            padding-left: 10px;
+        }
+
+        .section-contact {
+            margin-left: 0;
+            padding-left: 10px;
+        }
+
+        .image-container {
+            display: flex;
+            flex-direction: column;
+            align-items: left;
+            background-color: rgb(183, 179, 179);
+            margin-right: 620px;
+        }
+
+        .image-cell {
+            margin-bottom: 20px;
+        }
+
+        .left-section {
+            margin-right: 620px;
+            padding: 20px;
+            background-color: rgb(183, 179, 179);
+            color: white;
+        }
+
+        .right-section {
+            padding: 20px;
+        }
+
+        .profile-pic {
+            border-radius: 50%;
+            object-fit: cover;
+            height: 200px;
+            margin-top: 50px;
+            margin-left: 30px;
+        }
+
+        .section-index {
+            position: relative;
+            bottom: 580px;
+            left: 320px;
+        }
+
+        .section-text {
+            position: relative;
+            bottom: 580px;
+            left: 320px;
+            margin-top: 10px;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="resume">
+        <h1 style="height:40px;">
+            <p style="font-family: 'Nunito', sans-serif; text-align: center; margin-top: 5px;">이력서[Resume]</p>
+        </h1>
+        <hr style="width: 103%; ">
+        <div class="image-container">
+            <div class="image-cell">
+                <img class="profile-pic" src="이력서 사진.jpg" alt="이력서 사진.jpg">
+            </div>
+        </div>
+
+        <div class="section left-section">
+            <h2 class="section-title">연락(CONTACT)</h2>
+            <div class="section-contact">
+                <p><strong>Name:</strong> Lee Juho</p>
+                <p><strong>Date of Birth:</strong> May 21, 2001</p>
+                <p>
+                    <i class="fab fa-github" style="color: black;"></i> Github_Homepage:</strong>
+                    <a href="https://github.com/ljh1901/"> ljh1901</a>
+                </p>
+
+                <p><strong><i class="fas fa-envelope" style="color: Gray;">
+                        </i> Email:</strong> juho8690@gmail.com</p>
+                <p><strong><i class="fas fa-phone fa-flip-horizontal" style="color: black;">
+                        </i> Phone:</strong> +82 010-8690-3944</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 class="section-text">학력[Education]</h2>
+            <div class="section-index">
+                <p><strong>Degree:</strong> Sophomore in SMART IT 학부</p>
+                <p><strong>대학교(University):</strong> 세명대학교(Semyung university)</p>
+                <p><strong>Duration:</strong> March 2021 ~ </p>
+                <hr style="width:70%; margin-left: -25px;">
+            </div>
+            <h2 class="section-text">활동[Actvity]</h2>
+            <div class="section-index">
+                <p><strong>I&U program</strong> Software Engineer</p>
+                <p><strong>Company:</strong> ABC Corporation</p>
+                <p><strong>Duration:</strong> June 20XX - Present</p>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                    <li>Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum.</li>
+                    <li>Nam dignissim massa non consequat tincidunt.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
