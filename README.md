@@ -8,7 +8,7 @@
 * Email: [juho8690@gmail.com](https://gmail.com)
 * instagram: [ljh05._.21](https://www.instagram.com/ljh05._.21)
 * Github: [github.com/ljh1901](https://github.com/ljh1901)
-* tel: +82 010-8690-3944
+* Tel: +82 010-8690-3944
 
 <br/>
 
