@@ -17,7 +17,7 @@
             margin: 0 auto;
             padding: 40px;
             background-color: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 10px rgba(3, 3, 3, 0.5);
             margin-top: 20px;
             margin-bottom: 20px;
         }
@@ -33,18 +33,11 @@
             font-size: 20px;
             margin-bottom: 10px;
         }
-
         p {
             margin-bottom: 10px;
         }
-
-        .section {
-            margin-bottom: 30px;
-        }
-
         .section-title {
             font-size: 24px;
-            margin-bottom: 15px;
         }
 
         .section-content {
@@ -66,7 +59,7 @@
         }
 
         .image-cell {
-            margin-bottom: 20px;
+            margin-bottom: 5px;
         }
 
         .left-section {
@@ -90,16 +83,30 @@
 
         .section-index {
             position: relative;
-            bottom: 580px;
-            left: 320px;
+            bottom: 920px;
+            left: 300px;
         }
 
         .section-text {
             position: relative;
-            bottom: 580px;
-            left: 320px;
-            margin-top: 10px;
+            bottom: 920px;
+            left: 300px;
+        }
 
+        .bar {
+            height: 10px;
+            background: linear-gradient(to right, #FFC107, white);
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        .skills {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .skills li {
+            margin-bottom: 10px;
         }
     </style>
 </head>
@@ -109,7 +116,7 @@
         <h1 style="height:40px;">
             <p style="font-family: 'Nunito', sans-serif; text-align: center; margin-top: 5px;">이력서[Resume]</p>
         </h1>
-        <hr style="width: 103%; ">
+        <hr style="width: 102%; ">
         <div class="image-container">
             <div class="image-cell">
                 <img class="profile-pic" src="이력서 사진.jpg" alt="이력서 사진.jpg">
@@ -130,34 +137,61 @@
                         </i> Email:</strong> juho8690@gmail.com</p>
                 <p><strong><i class="fas fa-phone fa-flip-horizontal" style="color: black;">
                         </i> Phone:</strong> +82 010-8690-3944</p>
-        <hr>
-        <p><strong>자기 소개(About me)</p>
-            - 어떤 문제에 대해서든 적응하고, 열심히 공부하여, 내가 원하는 목표를 이룰수 있도록 노력하겠습니다. 
-            - 다양한 생각을 가진 사람들과 공부하고, 협력하여, 누구와도 효율적으로 커뮤니케이션하여 잘할 수 있습니다.
+                <hr style="width: 106%; margin-top: 20px; margin-left: 5px; border: 0; border-top: 3px solid white;">
+                <p><strong>
+                        <h2 class="section-title">Skills</h2>
+                        <ul class="skills">
+                            <li>HTML</li>
+                            <div class="bar"></div>
+                            <li>CSS</li>
+                            <div class="bar"></div>
+                            <li>JavaScript</li>
+                            <div class="bar"></div>
+                            <li>Python</li>
+                            <div class="bar"></div>
+                        </ul>
+                        <hr style="width: 106%; margin-top: 20px; margin-left: 5px; border: 0; border-top: 3px solid white;">
+                        <h2 class="section-title">Language</h2>
+                        <p><strong>한국어: Korean </strong></p>
+                        <p><strong>영어: English </strong></p>
+                        <h2 class="section-title">연락(CONTACT)</h2>
+                        <h2 class="section-title">연락(CONTACT)</h2>
+                        <h2 class="section-title">연락(CONTACT)</h2>
             </div>
         </div>
+    </div>
 
         <div class="section">
+            <h2 class="section-text">자기 소개[About me] </h2>
+            <div class="section-index">
+                <ul>
+                    <li> 어떤 문제에 대해서든 적응하고, 열심히 공부하여, 내가 원하는 목표를 이룰 수</li>
+                    <p> 있도록 노력하겠습니다.</p>
+                    <li> 다양한 생각을 가진 사람들과 공부하고, 협력하여, 누구와도 효율적으로 </li>
+                    <p> 커뮤니케이션하여 잘할 수 있습니다.</p>
+                </ul>
+                <hr style="width:69%; margin-left: -5px;">
+            </div>
             <h2 class="section-text">학력[Education]</h2>
             <div class="section-index">
                 <p><strong>Degree:</strong> Sophomore in SMART IT 학부</p>
                 <p><strong>대학교(University):</strong> 세명대학교(Semyung university)</p>
-                <p><strong>Duration:</strong> March 2021 ~ </p>
-                <hr style="width:70%; margin-left: -25px;">
+                <p><strong>Duration:</strong> March 2021 ~ Present </p>
+                <hr style="width:70%; margin-left: -5px;">
             </div>
             <h2 class="section-text">활동[Actvity]</h2>
             <div class="section-index">
                 <p><strong>I&U program</strong></p>
-                <p><strong>Company:</strong> Semyung university</p>
+                <p><strong>University:</strong> Semyung university</p>
                 <p><strong>Duration:</strong> May 03 ~ Present</p>
                 <ul>
+                    <!-- I&U 프로그램 세명대학교 SMART IT학부에서 진행하는 I&U 프로그램 /-->
                     <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
                     <li>Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum.</li>
                     <li>Nam dignissim massa non consequat tincidunt.</li>
                 </ul>
             </div>
         </div>
-    </div>
 </body>
 
 </html>
