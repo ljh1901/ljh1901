@@ -12,7 +12,7 @@
             box-shadow: 0 0 10px rgba(3, 3, 3, 0.5);
             margin-top: 20px;
             margin-bottom: 20px;
-            height: 1110px;
+            height: 1560px;
         }
 
         .left-section {
@@ -20,11 +20,12 @@
             padding: 20px;
             background-color: gray;
             color: white;
+            height: 1430px;
         }
 
         .right-section {
             position: relative;
-            bottom: 1065px;
+            margin-top: -1520px;
             left: 330px;
             color: black;
             padding: 30px;
@@ -36,6 +37,12 @@
             height: 200px;
             margin-top: 50px;
             margin-left: 30px;
+        }
+
+        .pic {
+            object-fit: cover;
+            height: 200px;
+            margin-left: 50px;
         }
 
         .bar {
@@ -52,6 +59,35 @@
 
         .skills li {
             margin-bottom: 10px;
+        }
+
+        table {
+            width: 68%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 10px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            border-right: 1px solid #ddd;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        tr:hover {
+            background-color: #e6e6e6;
+        }
+
+        td:not(:last-child) {
+            border-right: 1px solid #ddd;
         }
     </style>
 
@@ -96,7 +132,7 @@
                         <div style="display: flex; align-items: center; margin-bottom: 10px;">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu 로고"
                                 style="width: 25px; height: auto; border-radius: 30%; margin-top: 4px;">
-                                <span style="margin-left: 5px;">Ubuntu Linux</span>
+                            <span style="margin-left: 5px;">Ubuntu Linux</span>
                         </div>
                         <div class="bar"></div>
                         <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -105,59 +141,125 @@
                             <span style="margin-left: 5px; vertical-align: middle;">Python</span>
                         </div>
                         <div class="bar"></div>
-                        <div class="bar"></div>
-                        <div style="display: flex; align-items: center; margin-bottom: 10px;">
-                            <img src="https://github.com/hugovk/python-logos/raw/main/img/Python.png" alt="EXCEL 로고"
-                                style="width: 20px; height: auto; border-radius: 5px; margin-top: 4px;">
-                            <span style="margin-left: 5px; vertical-align: middle;">EXCEL</span>
-                        </div>
+
                     </ul>
-                    <hr
-                        style="width: 106%; margin-top: 20px; margin-left: 5px; border: 0; border-top: 3px solid white;">
-                    <h2 class="section-title">언어</h2>
-                    <p><strong>한국어: Korean </strong></p>
-                    <p><strong>영어: English </strong></p>
+                    <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
+                    border: 0; border-top: 3px solid white;">
+                    <h2 class="section-title">언어(Language)</h2>
+                    <p><strong>한국어: Korean - Fluent</strong></p>
+                    <p><strong>영어: English - Proficient</strong></p>
+                    <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
+                    border: 0; border-top: 3px solid white;">
+                    <h2>수상 내역[Awards]</h2>
+                    <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
+                    border: 0; border-top: 3px solid white;">
+                    <h2>병역 사항[Military service]</h2>
         </div>
-    <div class="right-section">
-        <div class="section">
-            <h2 style="width: 44%; background-color:rgb(196, 220, 241); 
+        <div class="right-section">
+            <div class="section">
+                <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
                 border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;"> 자기 소개[Profile]</h2>
-            <ul>
-                <li>어떤 문제에 대해서든 적응하고, 공부하여, 원하는 목표를 위해 노력하고자 합니다.</li>
-                <li>다양한 생각을 가진 사람들과 공부하고 협력해 커뮤니케이션할 수 있습니다.</li>
-            </ul>
-            <hr style="width: 45%; margin-left: 0px;">
-            <h2 style="width: 44%; background-color:rgb(196, 220, 241); 
+                <ul>
+                    <li>어떤 문제에 대해서든 적응하고, 공부하여, 원하는 목표를 위해 노력하고자 합니다.</li>
+                    <li>다양한 생각을 가진 사람들과 공부하고 협력해 커뮤니케이션할 수 있습니다.</li>
+                </ul>
+                <hr style="width: 68%; margin-left: 0px;">
+                <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
                 border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;
                 margin-top:5px;">학력[Education]</h2>
-            <p><strong>학위[degree]:</strong> 세명대학교 SMART IT 학부 2학년</p>
-            <p><strong>기간[Duration]:</strong> 2021. March. 02 ~ Present</p>
-            <hr style="width: 45%; margin-left: 0px;">
-            <h2 style="width: 44%; background-color:rgb(196, 220, 241); 
+                <ul>
+                    <p><strong>학위[degree]:</strong> 세명대학교 SMART IT 학부 2학년</p>
+                    <p><strong>기간[Duration]:</strong> 2021. March. 02 ~ Present</p>
+                </ul>
+                <hr style="width: 68%; margin-left: 0px;">
+                <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
                 border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;
                 margin-top:5px;">학점[Grade]</h2>
-            <hr style="width: 45%; margin-left: 0px;">
-            <h2 style="width: 44%; background-color:rgb(196, 220, 241); 
+                <ul>
+                    전체 평점 평균: 4.32/4.5 <br>
+                    1학년 1학기
+                    기초교양 기초수학 A+ <br>
+                    전공 컴퓨터 개론 A+<br>
+                    전공 사이버보안개론 및실습 A+<br>
+                </ul>
+                <hr style="width: 68%; margin-left: 0px; border-top: 2px solid black;">
+                <ul>
+                    1학년 2학기<br>
+                    교양필수 컴퓨터 실무 활용 A+<br>
+                    기초교양 대학수학 A+<br>
+                    교양필수 교양기본영어 A+<br>
+                    전공 C언어및실습 A+<br>
+                    4차산업혁명과IOT실습 A0
+                </ul>
+                <hr style="width: 68%; margin-left: 0px;">
+                <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
+                border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;
+                    margin-top:5px;">경력[Career]</h2>
+                <ul>
+                    <li>회사명: 대교문구 / 부서: X /직책: 아르바이트</li>
+                    <li>주요 역할: 창고 관리, 물건 관리, 카운터 업무</li>
+                    <li>상세 업무 내용[Content of Working] : </li>
+                    <p style="padding-top: 0.1px;">
+                        - 고객 응대, 상품관리, 복사 및 재고 파악</p>
+                    <li>기간: 2022.10.25 ~ 2023. 02.28(약 4개월)</li>
+                </ul>
+                <hr style="width: 68%; margin-left: 0px;">
+                <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
+                border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;
+                    margin-top:5px;">어학 및 자격증</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>취득 기간</th>
+                            <th>언어/ 자격증 명</th>
+                            <th>점수/ 등급</th>
+                            <th>기관</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>2009. 10. 25</td>
+                            <td>태권도</td>
+                            <td>1단</td>
+                            <td>서울특별시 태권도 협회</td>
+                        </tr>
+                        <tr>
+                            <td>2022. 10. 27</td>
+                            <td>자동차 운전 면허증</td>
+                            <td>1종 보통</td>
+                            <td>도로교통공단</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+                <hr style="width: 68%; margin-left: 0px;">
+                <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
                 border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;
                 margin-top:5px;">기타 활동[Activity]</h2>
-            <p><strong>I&U 프로그램 - 기관[Agency]:</strong> Semyung university</strong></p>
-            <!-- I&U 프로그램은 세명대학교 SMART IT 학부에서 진행되는 프로그램입니다. -->
-            <ul>
-                <li>기간[Duration] : 2023.05.03 ~ Present</li>
-                <li>내용[Content of the Activity] : </li>
-                <p style="padding-top: 0.1px;">1. X500 드론 분해 & 조립, LINUX 18.04를 이용하여<br>
-                    2. LINUX 18.04를 이용하여 ros melodic tool로 드론 시뮬레이션<br>
-                    3. 3D 프린터 사용법</p>
-            </ul>
-            <p><strong>I.SMART 동아리 - 기관[Agency]:</strong> Semyung university</strong></p>
-            <ul>
-                <li>기간: 2023.04.05 ~ Present</li>
-                <li>내용[Content of the Activity] : </li>
-                <p style="padding-top: 0.1px;">1. chat GPT 등을 통한 빅데이터/인공지능의 최신 이론과 실제 사례를 탐구.<br>
-                    2. chat GPT 경진대회 참가</p>
-            </ul>
+                <ul>
+                    <p><strong>I&U 프로그램 - 기관[Agency]: Semyung university</strong></p>
+                    <!-- I&U 프로그램은 세명대학교 SMART IT 학부에서 진행되는 프로그램입니다. -->
+                    <ul>
+                        <li>기간[Duration] : 2023.05.03 ~ Present</li>
+                        <li>내용[Content of the Activity] : </li>
+                        <p style="padding-top: 0.1px;">1. X500 드론 분해 & 조립 <br>
+                            2. LINUX 18.04를 이용하여, ros melodic tool로 드론 시뮬레이션<br>
+                            3. 3D 프린터 사용법</p>
+                    </ul>
+                </ul>
+                <ul>
+                    <p><strong>I.SMART 동아리 - 기관[Agency]: Semyung university</strong></p>
+                    <ul>
+                        <li>기간: 2023.04.05 ~ Present</li>
+                        <li>내용[Content of the Activity] : </li>
+                        <p style="padding-top: 0.1px;">
+                            1. chat GPT 등을 통한 빅데이터/인공지능의 최신 이론과 실제 사례를 탐구.<br>
+                            2. chat GPT 경진대회 참가</p>
+                    </ul>
+                </ul>
+                <hr style="width: 68%; margin-left: 0px;">
+            </div>
         </div>
-    </div>
     </div>
 </body>
 </head>
