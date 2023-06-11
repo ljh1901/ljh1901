@@ -13,7 +13,7 @@
             box-shadow: 0 0 10px rgba(3, 3, 3, 0.5);
             margin-top: 20px;
             margin-bottom: 20px;
-            height: 1580px;
+            height: 1620px;
         }
 
         .left-section {
@@ -21,12 +21,12 @@
             padding: 20px;
             background-color: gray;
             color: white;
-            height: 1420px;
+            height: 1470px;
         }
 
         .right-section {
             position: relative;
-            margin-top: -1510px;
+            margin-top: -1560px;
             left: 330px;
             color: black;
             padding: 30px;
@@ -48,8 +48,6 @@
 
         .bar {
             height: 10px;
-            background: linear-gradient(to right, #FFC107, white);
-            border-radius: 5px;
             margin-bottom: 10px;
         }
 
@@ -71,16 +69,12 @@
         td {
             padding: 10px;
             text-align: center;
-            border-bottom: 1px solid #ddd;
+            border: 1px solid #353333;
         }
 
         th {
-            background-color: #f2f2f2;
-            border-right: 1px solid #ddd;
-        }
-
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
+            background-color: #fbf6f6;
+            border-right: 1px solid #131313;
         }
 
         tr:hover {
@@ -88,10 +82,11 @@
         }
 
         td:not(:last-child) {
-            border-right: 1px solid #ddd;
+            border-right: 1px solid #0c0c0c;
         }
+
         .post-it {
-            background-color: yellow;
+            background-color: blue;
             width: 100px;
             padding: 10px;
             position: relative;
@@ -99,10 +94,12 @@
             margin-top: 5px;
         }
     </style>
+
 <body>
     <div class="resume-container">
         <h1 style="margin-top: 10px;">
-            <div class="post-it"></div> <p style="font-family: 'Nunito', sans-serif; text-align: center; margin-top: 5px;">LJH's Resume</p>
+            <div class="post-it"></div>
+            <p style="font-family: 'Nunito', sans-serif; text-align: center; margin-top: 5px;">LJH's Resume</p>
         </h1>
         <hr style="width: 100%; ">
         <div class="left-section">
@@ -128,40 +125,73 @@
                     <h2 class="section-title">기술(Skills)</h2>
                     <ul class="skills">
                         <li><img src="https://img.shields.io/badge/-orange?logo=html5&logoColor=white"
-                                alt="HTML 로고">HTML
+                                alt="HTML 로고">HTML - Beginner
                         </li>
-                        <div class="bar"></div>
+                        <div class="bar"
+                            style="width: 33%; border-radius: 5px; background: linear-gradient(to right, #FFC107, white);">
+                        </div>
                         <div style="display: flex; align-items: center; margin-bottom: 10px;">
                             <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ 로고"
                                 style="width: 20px; height: auto; border-radius: 5px; margin-top: 4px;">
-                            <span style="margin-left: 5px;">C++</span>
+                            <span style="margin-left: 5px;">C++ - Intermediate</span>
                         </div>
-                        <div class="bar"></div>
+                        <div class="bar"
+                            style="width: 66%; border-radius: 5px; background: linear-gradient(to right, #FFC107, white);">
+                        </div>
                         <div style="display: flex; align-items: center; margin-bottom: 10px;">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu 로고"
                                 style="width: 25px; height: auto; border-radius: 30%; margin-top: 4px;">
-                            <span style="margin-left: 5px;">Ubuntu Linux</span>
+                            <span style="margin-left: 5px;">Ubuntu Linux - Beginner</span>
                         </div>
-                        <div class="bar"></div>
+                        <div class="bar"
+                            style="width: 33%; border-radius: 5px; background: linear-gradient(to right, #FFC107, white);">
+                        </div>
                         <div style="display: flex; align-items: center; margin-bottom: 10px;">
                             <img src="https://github.com/hugovk/python-logos/raw/main/img/Python.png" alt="Python 로고"
                                 style="width: 20px; height: auto; border-radius: 5px; margin-top: 4px;">
-                            <span style="margin-left: 5px; vertical-align: middle;">Python</span>
+                            <span style="margin-left: 5px; vertical-align: middle;">Python - Intermediate</span>
                         </div>
-                        <div class="bar"></div>
-
-                    </ul>
-                    <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
+                        <div class="bar"
+                            style="width: 66%; border-radius: 5px; background: linear-gradient(to right, #FFC107, white);">
+                        </div>
+                        <h2 class="section-title">기타 기술(Other Skills)</h2>
+                        <ul class="skills">
+                            <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
+                                    alt="Excel" style="width: 25px; height: auto; border-radius: 20%; margin-top: 4px;">
+                                <span style="margin-left: 5px; vertical-align: middle;">Excel - Intermediate</span>
+                            </div>
+                            <div class="bar" style="width: 66%; background: #000080;"></div>
+                            <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg"
+                                    alt="PPT 로고"
+                                    style="width: 20px; height: auto; border-radius: 3px; margin-top: 4px;">
+                                <span style="margin-left: 5px;">Power point - Advanced</span>
+                            </div>
+                            <div class="bar" style="width: 100%; background: #000080;"></div>
+                            <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Microsoft_Office_Word_%282013%E2%80%932019%29.svg"
+                                    alt="Word 로고"
+                                    style="width: 25px; height: auto; border-radius: 30%; margin-top: 4px;">
+                                <span style="margin-left: 5px;">Word - Advanced </span>
+                            </div>
+                            <div class="bar" style="width: 100%; background: #000080;"></div>
+                        </ul>
+                        <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
                     border: 0; border-top: 3px solid white;">
-                    <h2 class="section-title">언어(Language)</h2>
-                    <p><strong>한국어: Korean - Fluent</strong></p>
-                    <p><strong>영어: English - Proficient</strong></p>
-                    <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
+                        <h2 class="section-title">언어(Language)</h2>
+                        <p><strong>한국어: Korean - Native Language</strong></p>
+                        <p><strong>영어: English - Proficient</strong></p>
+                        <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
                     border: 0; border-top: 3px solid white;">
-                    <h2>수상 내역[Awards]</h2>
-                    <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
+                        <h2>수상 내역[Awards]</h2>
+                        <hr style="width: 106%; margin-top: 20px; margin-left: 5px; 
                     border: 0; border-top: 3px solid white;">
-                    <h2>병역 사항[Military service]</h2>
+                        <h2>병역 사항[Military service]</h2>
+                        <li><strong>면제사유: 비대상</strong> </li>
+                        <li><strong>복무기간: 2021. 04. 26 - 2022. 10.25</strong> </li>
+                        <li><strong>군 별:</strong> 해병대</li>
+                        <li><strong>계급:</strong> 병장/병역: 만기전역</li>
         </div>
         <div class="right-section">
             <div class="section">
@@ -184,32 +214,45 @@
                 border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;
                 margin-top:5px;">학점[Grade]</h2>
                 <ul>
-                    전체 평점 평균: 4.32/4.5 <br>
-                    1학년 1학기
-                    기초교양 기초수학 A+ <br>
-                    전공 컴퓨터 개론 A+<br>
-                    전공 사이버보안개론 및실습 A+<br>
+                    <li>전체 평점 평균: 4.32/4.5</li>
+                    (1학년 1학기)<br>
+                    기초교양 기초수학: A+ <br>
+                    전공 컴퓨터 개론: A+<br>
+                    전공 사이버보안개론 및 실습: A+<br>
                 </ul>
                 <hr style="width: 68%; margin-left: 0px; border-top: 2px solid black;">
                 <ul>
-                    1학년 2학기<br>
-                    교양필수 컴퓨터 실무 활용 A+<br>
-                    기초교양 대학수학 A+<br>
-                    교양필수 교양기본영어 A+<br>
-                    전공 C언어및실습 A+<br>
-                    4차산업혁명과IOT실습 A0
+                    (1학년 2학기)<br>
+                    교양필수 컴퓨터 실무 활용: A+<br>
+                    기초교양 대학수학: A+<br>
+                    교양필수 교양기본영어: A+<br>
+                    전공 C언어및실습: A+<br>
+                    4차산업혁명과IOT실습: A0
                 </ul>
                 <hr style="width: 68%; margin-left: 0px;">
                 <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
                 border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;
-                    margin-top:5px;">경력[Career]</h2>
+                margin-top:5px;">기타 활동[Activity]</h2>
                 <ul>
-                    <li>회사명: 대교문구 / 부서: X /직책: 아르바이트</li>
-                    <li>주요 역할: 창고 관리, 물건 관리, 카운터 업무</li>
-                    <li>상세 업무 내용[Content of Working] : </li>
-                    <p style="padding-top: 0.1px;">
-                        - 고객 응대, 상품관리, 복사 및 재고 파악</p>
-                    <li>기간: 2022.10.25 ~ 2023. 02.28(약 4개월)</li>
+                    <p><strong>I&U 프로그램 - 기관[Agency]: Semyung university</strong></p>
+                    <!-- I&U 프로그램은 세명대학교 SMART IT 학부에서 진행되는 프로그램입니다. -->
+                    <ul>
+                        <li>기간[Duration] : 2023. 05. 03 ~ 2023. 06. 11</li>
+                        <li>내용[Content of the Activity] : </li>
+                        <p style="padding-top: 0.1px;">1. X500 드론 분해 & 조립 <br>
+                            2. LINUX 18.04를 이용하여, ros melodic tool로 드론 시뮬레이션<br>
+                            3. 3D 프린터 사용법</p>
+                    </ul>
+                </ul>
+                <ul>
+                    <p><strong>I.SMART 동아리 - 기관[Agency]: Semyung university</strong></p>
+                    <ul>
+                        <li>기간: 2023.04.05 ~ Present</li>
+                        <li>내용[Content of the Activity] : </li>
+                        <p style="padding-top: 0.1px;">
+                            1. chat GPT 등을 통한 빅데이터/인공지능의 최신 이론과 실제 사례를 탐구.<br>
+                            2. chat GPT 경진대회 참가</p>
+                    </ul>
                 </ul>
                 <hr style="width: 68%; margin-left: 0px;">
                 <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
@@ -243,27 +286,14 @@
                 <hr style="width: 68%; margin-left: 0px;">
                 <h2 style="width: 66%; background-color:rgb(196, 220, 241); 
                 border-radius: 10px; height:40px; padding-top: 5px; padding-left: 20px;
-                margin-top:5px;">기타 활동[Activity]</h2>
+                    margin-top:5px;">경력[Career]</h2>
                 <ul>
-                    <p><strong>I&U 프로그램 - 기관[Agency]: Semyung university</strong></p>
-                    <!-- I&U 프로그램은 세명대학교 SMART IT 학부에서 진행되는 프로그램입니다. -->
-                    <ul>
-                        <li>기간[Duration] : 2023.05.03 ~ Present</li>
-                        <li>내용[Content of the Activity] : </li>
-                        <p style="padding-top: 0.1px;">1. X500 드론 분해 & 조립 <br>
-                            2. LINUX 18.04를 이용하여, ros melodic tool로 드론 시뮬레이션<br>
-                            3. 3D 프린터 사용법</p>
-                    </ul>
-                </ul>
-                <ul>
-                    <p><strong>I.SMART 동아리 - 기관[Agency]: Semyung university</strong></p>
-                    <ul>
-                        <li>기간: 2023.04.05 ~ Present</li>
-                        <li>내용[Content of the Activity] : </li>
-                        <p style="padding-top: 0.1px;">
-                            1. chat GPT 등을 통한 빅데이터/인공지능의 최신 이론과 실제 사례를 탐구.<br>
-                            2. chat GPT 경진대회 참가</p>
-                    </ul>
+                    <li>회사명: 대교문구 / 부서: X /직책: 아르바이트</li>
+                    <li>주요 역할: 창고 관리, 물건 관리, 카운터 업무</li>
+                    <li>상세 업무 내용[Content of Working] : </li>
+                    <p style="padding-top: 0.1px;">
+                        - 고객 응대, 상품관리, 복사 및 재고 파악</p>
+                    <li>기간: 2022.10.25 ~ 2023. 02.28(약 4개월)</li>
                 </ul>
                 <hr style="width: 68%; margin-left: 0px;">
             </div>
