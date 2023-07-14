@@ -78,19 +78,7 @@
 
 ##  프로젝트-Project
 
-[**Chat gpt 경진대회**](http://www.ipact.kr/popup_view.php?no=28)
-> Chat gpt 경진대회를 위해 VS Code를 이용해 HTML 웹 사이트를 구현하려고 구상중입니다.
-> 
-> 프론트 엔드로는 vs code를 사용해 웹 사이트를 구현하여 경진대회 참여를 목표로 하고 있습니다.
-> 
-> 챗봇 기능을 추가하여 대화를 할 수있게 만들었습니다.
 
-* 개최기관 : IPACT 국제문화기술진흥원
-* 개발 기술
-  * 프론트엔드 : VS Code
-
-* 개발중인 홈페이지 : [https://ljh1901.github.io/3.First-Aid/]
-* 기간: 2023.05.10 ~
 
 <br/>
 
