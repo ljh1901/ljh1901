@@ -1,5 +1,7 @@
 이주호(Juho Lee)
 ======================
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&layout=compact)
 [![Language](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=html5&logoColor=white)](https://ljh1901.github.io/3.First-Aid/) 
 
 
@@ -10,7 +12,6 @@
 * Github: [github.com/ljh1901](https://github.com/ljh1901)
 * Tel: +82 010-8690-3944
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&layout=compact)
 <br/>
 
 # 목차(index)
