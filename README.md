@@ -66,13 +66,6 @@
 * 기간 : 2023.05.03 ~ 
 * 내용 : X500 드론 분해 후 조립, LINUX 18.04를 이용하여, ros melodic tool을 이용해 시뮬레이션, 3D 프린터 사용법
 
-[**I.SMART 동아리**](http://www.semyung.ac.kr/cop/bbs/BBSMSTR_000000000207/selectBoardList.do?bbsId=BBSMSTR_000000000207&pageIndex=1&kind=&mno=sitemap_12&searchCnd=&searchWrd=)
-> <세명대학교 I.SMART 동아리>
-
-* 기간: 2023.04.05 ~
-* 내용: 
-1. chat GPT 등을 통한 빅데이터/인공지능의 최신 이론과 실제 사례를 탐구.
-2. chat GPT 경진대회 참가
 
 ## 자격증-License
 *License*
