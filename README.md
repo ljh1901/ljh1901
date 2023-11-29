@@ -10,6 +10,7 @@
 * Github: [github.com/ljh1901](https://github.com/ljh1901)
 * Tel: +82 010-8690-3944
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&layout=compact)
 <br/>
 
 # 목차(index)
