@@ -61,13 +61,20 @@
 
 [**I&U 프로그램**](http://www.semyung.ac.kr/cop/bbs/BBSMSTR_000000000207/selectBoardList.do?bbsId=BBSMSTR_000000000207&pageIndex=1&kind=&mno=sitemap_12&searchCnd=&searchWrd=)
 > <I&U 프로그램>
-> 세명대학교 SMART IT학부에서 진행하는 I&U 프로그램
+> 세명대학교 SMART IT학부의 I&U 프로그램
 
 * 기간 : 2023.05.03 ~ 2023.05.29
 * 내용 : X500 드론 분해 후 조립
 *        운영체재: LINUX 18.04
 *        ROS 버전: ROS melodic
-*        ROS desktop 환경의 Gazebo를 이용해 드론 시뮬레이션, Qground, Ardupilot을 이용한 X500조종 
+*        ROS desktop 환경의 Gazebo를 이용해 드론 시뮬레이션, Qground, Ardupilot을 이용한 X500조종
+[**I&U 프로그램**](http://www.semyung.ac.kr/cop/bbs/BBSMSTR_000000000207/selectBoardList.do?bbsId=BBSMSTR_000000000207&pageIndex=1&kind=&mno=sitemap_12&searchCnd=&searchWrd=)
+> <I&U 프로그램>
+> 세명대학교 SMART IT학부의 I&U 프로그램
+> 
+* 기간 : 2023.11.03 ~ 2023.11.28
+* 내용 : 3D프린팅 설계 - Jetson 보드 설계
+* 프로그램: Rhino 7
 
 
 ## 자격증-License
