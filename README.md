@@ -1,6 +1,4 @@
 이주호(Juho Lee)
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1864ab&lines=HI👋&font=Redressed&size=40)](https://git.io/typing-svg) 
 ======================
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) -->
