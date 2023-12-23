@@ -1,6 +1,7 @@
 이주호(Juho Lee)
 ======================
-![header](https://capsule-render.vercel.app/api?height=400&text=ljh1901%20&animation=twlinkling&desc=Welcome%20to%20ljh1901)
+![header](https://capsule-render.vercel.app/api?height=400&text=ljh1901&animation=twinkling&desc=Welcome%20to%20ljh1901)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1864ab&lines=Hi+There🤖👋&font=Redressed&size=40)](https://git.io/typing-svg) 
