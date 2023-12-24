@@ -14,8 +14,10 @@
 
 [![Language](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=html5&logoColor=white)](https://ljh1901.github.io/3.First-Aid/) 
 
-
+# Introduction
 안녕하세요! 세명대학교 스마트IT학부생이자, 현재, Embeded Programmer를 꿈꾸는 학생입니다.
+Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
+
 # 연락(Contact)
 * Email: [juho8690@gmail.com](https://gmail.com)
 * instagram: [ljh05._.21](https://www.instagram.com/ljh05._.21)
