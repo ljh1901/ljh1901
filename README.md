@@ -10,7 +10,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) --><img align="left" src="https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ljh1901)](https://solved.ac/dkds1901)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkds1901)](https://solved.ac/dkds1901)
 
 [![Language](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=html5&logoColor=white)](https://ljh1901.github.io/3.First-Aid/) 
 
