@@ -20,5 +20,5 @@ jobs:
           git config user.name ljh1901
           git config user.email juho8690@gmail.com
           git add -A .
-          git commit -m "generated"; then
+          git commit -m "generated";
           git push
