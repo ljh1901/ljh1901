@@ -106,8 +106,7 @@
 
 ## 수상내역-Awards
 세명대학교 총장 표창
-
-
-
 새온 AI미션 챌린지 - 대전광역시장상
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
