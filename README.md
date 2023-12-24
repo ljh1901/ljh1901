@@ -93,7 +93,6 @@
 
 
 <br/>
-
 ### 경력-Career
 **대교문구**
 
@@ -102,11 +101,10 @@
 > 기간: 2022.10.25 ~ 2023. 02.28(약 4개월)
 
 <br/>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ## 수상내역-Awards
 세명대학교 총장 표창
 새온 AI미션 챌린지 - 대전광역시장상
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
