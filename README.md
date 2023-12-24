@@ -5,7 +5,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1864ab&lines=Hi+There🤖👋&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1864ab&lines=Hi+There🤖👋&font=Redressed&size=40)](https://git.io/typing-svg)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) --><img align="left" src="https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
 
@@ -16,6 +16,8 @@
 
 # Introduction
 안녕하세요! 세명대학교 스마트IT학부생이자, 현재, Embeded Programmer를 꿈꾸는 학생입니다.
+
+
 Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 
 # 연락(Contact)
