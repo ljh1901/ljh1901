@@ -1,5 +1,5 @@
 이주호(Juho Lee)
-====================
+==================
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=200&width=1200&text=ljh1901&desc=Welcome%20to%20ljh1901&animation=twinkling&fontColor=ffff)
 
