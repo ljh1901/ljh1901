@@ -102,6 +102,7 @@
 > 기간: 2022.10.25 ~ 2023. 02.28(약 4개월)
 
 <br/>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 수상내역-Awards
 세명대학교 총장 표창
