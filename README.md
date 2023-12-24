@@ -1,4 +1,6 @@
 이주호(Juho Lee)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ======================
 ![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=300&text=ljh1901&desc=Welcome%20to%20ljh1901&animation=twinkling&fontColor=ffff)
 
@@ -107,4 +109,3 @@
 세명대학교 총장 표창
 새온 AI미션 챌린지 - 대전광역시장상
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
