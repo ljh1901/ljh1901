@@ -96,7 +96,7 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 |태권도 1단|국기원|2009.10.25|
 
 ##  프로젝트-Project
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ljh1901&repo=Java&theme=radical "Java")](https://github.com/ljh1901/Java)
 
 <br/>
 
