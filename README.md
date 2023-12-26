@@ -45,9 +45,6 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 - 고등학교: 보성 고등학교 졸업
 - 대학교: 세명 대학교 Smart IT 학부 재학중
 
-
-<br/>
-
 <br/>
 
 ## 학점-Grade
