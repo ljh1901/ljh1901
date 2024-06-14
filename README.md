@@ -101,7 +101,7 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 
 
 ## :trophy:수상내역-Awards:trophy:
-!(세명대학교 총장 표창)
+!(세명대학교 총장 표창)(Reward.png)
 
 
 !(새온 AI미션 챌린지 - 대전광역시장상)(Reward.png)
