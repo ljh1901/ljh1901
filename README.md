@@ -102,9 +102,8 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 
 ## :trophy:수상내역-Awards:trophy:
 !(세명대학교 총장 표창)(Reward.png)
-<img src="Reward.png" alt="세명대학교 총장 표창" width="500"/>
+<img src="" alt="세명대학교 총장 표창" width="500"/>
 
-새온 AI미션 챌린지 - 대전광역시장상
-![새온 AI미션 챌린지 - 대전광역시장상](Reward.png)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ljh1901&theme=default)
+#새온 AI미션 챌린지 - 대전광역시장상
+<img src="Reward.png" alt="세명대학교 총장 표창" width="500"/>
 
