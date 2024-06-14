@@ -104,6 +104,6 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 !(세명대학교 총장 표창)(Reward.png)
 
 
-!(새온 AI미션 챌린지 - 대전광역시장상)(Reward.png)
+![새온 AI미션 챌린지 - 대전광역시장상](Reward.png)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ljh1901&theme=default)
 
