@@ -7,8 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1864ab&lines=Hi+There🤖👋&font=Redressed&size=40)](https://git.io/typing-svg)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) --><img align="left" src="https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh1901&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkds1901)](https://solved.ac/dkds1901)
 
@@ -103,6 +101,7 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 ## :trophy:수상내역-Awards:trophy:
 ![세명대학교 총장 표창]()
 <!-- <img src="" alt="세명대학교 총장 표창" width="500"/> -->
+ Arduino Board를 활용 Arduino IDE를 통해 c++ 기반 자율 주행 Algorithm 개발
 
 #새온 AI미션 챌린지 - 대전광역시장상
 <hr />
