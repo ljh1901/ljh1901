@@ -38,8 +38,6 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 <br/>
 
 ## 학력-Education
-- 초등학교: 오금 초등학교 졸업
-- 중학교: 오금 중학교 졸업
 - 고등학교: 보성 고등학교 졸업
 - 대학교: 세명 대학교 Smart IT 학부 재학중
 
