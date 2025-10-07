@@ -100,11 +100,11 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 
 
 ## :trophy:수상내역-Awards:trophy:
+#세명대학교 총장 표창
 <img src="KakaoTalk_20251007_211402970.jpg" alt="세명대학교 총장 표창" width="500"/>
  Arduino Board를 활용 Arduino IDE를 통해 c++ 기반 자율 주행 Algorithm 개발
-
-#새온 AI미션 챌린지 - 대전광역시장상
 <hr />
-<img src="Reward.png" alt="세명대학교 총장 표창" width="500"/>
+#새온 AI미션 챌린지 - 대전광역시장상
+<img src="Reward.png" alt="대전 광역 시장상" width="500"/>
 
 
