@@ -79,8 +79,8 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 |자격증|발행기관|발행연도|
 |-|-|-|
 |운전면허증 1종 보통|서울 지방 경찰청|2022. 10.17|
-|태권도 1단|국기원|2009.10.25|
-|SQLD|한국데이터산업진흥원|2024.12.13|
+|SQLD|한국 데이터 산업 진흥원|2024.12.13|
+|정보처리기사|한국 산업 인력 공단|2025.09.12|
 
 ##  프로젝트-Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ljh1901&repo=Java&theme=radical "Java")](https://github.com/ljh1901/Java)
