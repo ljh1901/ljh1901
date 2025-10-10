@@ -28,7 +28,6 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 
 # 목차(index)
 - [학력](#학력-Education)
-- [학점](#학점-Grade)
 - [활동](#활동-Activity)
 - [자격증](#자격증-License)
 - [프로젝트](#프로젝트-Project)
