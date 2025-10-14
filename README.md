@@ -32,7 +32,7 @@ Page: [ljh1901's Resume](https://ljh1901.github.io/ljh1901/)
 - [자격증](#자격증-License)
 - [프로젝트](#프로젝트-Project)
 - [경력](#경력-Career)
-- [수상내역](#수상내역-Awards)
+- [수상내역](#:trophy:수상내역-Awards:trophy:)
 
 <br/>
 
