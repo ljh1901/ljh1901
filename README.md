@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1864ab&lines=Hi+There🤖👋&font=Redressed&size=40)](https://git.io/typing-svg)
-<a href="https://github.com/ljh1901/">포트폴리오 이동하기</a>
+<a href="[https://github.com/ljh1901/](https://ljh1901.github.io/ljh1901/)">포트폴리오 페이지 이동하기</a>
 <p align="center">
 Java & Spring 기반 백엔드 개발자를 목표로 성장하고 있습니다.<br>
 데이터 흐름을 고려한 설계와 계층 분리를 중요하게 생각합니다.
