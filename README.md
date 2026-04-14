@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lee Juho (이주호)
-<a href="[https://github.com/ljh1901/ljh1901.github.io](https://ljh1901.github.io/ljh1901/)"> 포트폴리오 이동하기</a>
+<a href="https://github.com/ljh1901/ljh1901.github.io"> 포트폴리오 이동하기</a>
 <br>
 🚀 Full-Stack Developer (Backend Focused)
 
